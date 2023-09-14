@@ -5,3 +5,7 @@ Activity 1: Screenshot of the commit for creating README.md file with name as th
 
 Activity 2: Screenshot of the output of the merge command on the "main" branch
 ![Activity 2 Screenshot](Screenshots/Activity_2.png)
+
+Activity 3: Screenshot of the successful merge
+![Activity 3 Screenshot](Screenshots/Activity_3_1.png)
+![Activity 3 Screenshot](Screenshots/Activity_3_2.png)
